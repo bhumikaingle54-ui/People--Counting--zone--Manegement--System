@@ -1,2 +1,1 @@
-# People--Counting--zone--Manegement--System
-people-counting-system
+This project is currently under development as part of my 40 days internship at infosys Springboard.
